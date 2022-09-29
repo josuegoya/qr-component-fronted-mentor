@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/josuegoya/qr-component-fronted-mentor)
-- Live Site URL: [Add live site URL here](https://josuegoya.github.io/qr-component-fronted-mentor)
+- Solution URL: [Solution here](https://github.com/josuegoya/qr-component-fronted-mentor)
+- Live Site URL: [Live site URL here](https://josuegoya.github.io/qr-component-fronted-mentor)
 
 ## My process
 
@@ -34,7 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@josuegoya](https://www.frontendmentor.io/profile/josuegoya)
 
 
